@@ -376,7 +376,7 @@ const icons = {
   gridsome: "https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg",
   nuxtjs: "https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg",
   jekyll: "https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg",
-  nextjs: "https://cdn.worldvectorlogo.com/logos/nextjs-3.svg",
+  nextjs: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
   reactnative: "https://reactnative.dev/img/header_logo.svg",
   mariadb: "https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg",
   cockroachdb: "https://cdn.worldvectorlogo.com/logos/cockroachdb.svg",
